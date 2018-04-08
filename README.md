@@ -1,8 +1,10 @@
-# react-mobile-layout-collection
+# RMLC
 React for mobile and responsive layout collection
 (The collection of React components)
 
-# collection completion
+!['mobile'](https://raw.githubusercontent.com/mkhuda/react-mobile-layout-collection/master/img/FlexColumnAndRow.png)
+
+## Collections completion
 - Home page
 - Login page (Soon)
 - Register page (Soon)
